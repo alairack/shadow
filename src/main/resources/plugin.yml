@@ -1,0 +1,9 @@
+name: 'Shadow'
+version: '1.0.0'
+main: alairack.shadow.Shadow
+api-version: '1.19'
+
+commands:
+  shadow:
+    description: 生成尾随者
+    usage: /<command>
